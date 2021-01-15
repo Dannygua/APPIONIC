@@ -5,6 +5,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+npm start
+
+## Metodos y Explicacion
+
+En el documento existen archivos, los cuales sejecutaran los metodos para poner en funcionamiento el Chat y la subida de imagenesE
+
+###App
+
+###Chat
+
+###FileUpdate
+
+
 
 ### `yarn start`
 
