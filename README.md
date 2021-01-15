@@ -7,27 +7,27 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 npm start
 
-## Metodos y Explicacion
+### Metodos y Explicacion
 
 En el documento existen archivos, los cuales sejecutaran los metodos para poner en funcionamiento el Chat y la subida de imagenesE
 
-### App
+## App
 
 El App cuenta con los metonos Chat y FileUpdate, es en donde todos los componentes se reunen y se muestran
 
-## Metodos de App
+### Metodos de App
 
-### Chat
+## Chat
 
 El chat es un componente, encargado de contener todas las funciones necesarias para acceder a los datos de firebase y poder ejecutar debidamente el chat
 
-## Metodos de Chat
+### Metodos de Chat
 
-### FileUpdate
+## FileUpdate
 
 FileUpload es un componente que se encarga de contener el formulario del chat, en el cual se subiran imagener a firebase
 
-## Metodos de FileUpload
+### Metodos de FileUpload
 
 
 ## Learn More
