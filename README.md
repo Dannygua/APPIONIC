@@ -11,11 +11,11 @@ npm start
 
 En el documento existen archivos, los cuales sejecutaran los metodos para poner en funcionamiento el Chat y la subida de imagenesE
 
-###App
+### App
 
-###Chat
+### Chat
 
-###FileUpdate
+### FileUpdate
 
 
 
