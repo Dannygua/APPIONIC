@@ -16,13 +16,17 @@ En el documento existen 3 archivos, los cuales ejecutaran los métodos para pone
 El App cuenta con los métodos Chat y FileUpdate, es en donde todos los componentes se reúnen y se muestran
 
 ### Métodos de App
+
 componentWillMount()
+
 Es el conocido como ciclo de vida, en el cual se actualizarán variables cada vez que se ejecute un cambio, por lo cual aquí se encuentra el estado del usuario y el array de imágenes, que estarán en contante cambio
 
 handleAuth()
+
 Aquí se encuentra la autenticación con Google, mediante la cual se podrá acceder al contenido de la app, si el usuario se Logea con una cuenta de Google existente
 
 handleLogout()
+
 Aquí se implementa el método singOut de firebase, el cual cerrara la sesión del usuario y le negara el acceso a menos que use el login de Google
 
 handleUpload ()
@@ -42,10 +46,13 @@ En este método se decide que es lo que se debe mostrar, al usuario, dependiendo
 El chat es un componente, encargado de contener todas las funciones necesarias para acceder a los datos de firebase y poder ejecutar debidamente el chat
 
 ### Métodos de Chat
+
 componentDidMount()
+
 Este método es el ciclo de vida de react, por aquí se actualizarán las variables que se cambien en la ejecución
 
 handleSubmit ()
+
 En este método se ingresa la información de los mensajes que se escribieron el chat, de tal modo que se ingresen en la Real Time Database de Firebase, junto con el usuario que las envió
 
 ## FileUpdate
