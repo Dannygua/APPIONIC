@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# CHAT DE IONIC CON IMAGENES EN REACT Y FIREBASE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## EJECUCION DEL PROYECTO
+
+Se puede ejecutar con:
 npm start
 
 ### Métodos y Explicación
